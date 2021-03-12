@@ -1,2 +1,3 @@
-# shell-Comp9444
-Comp9444学习记录
+#shell-comp9044  
+==
+comp9044脚本编程学习
